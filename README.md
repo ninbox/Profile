@@ -35,7 +35,7 @@ Hello! I'm Nkemjika, a passionate Data Scientist with a strong background in dat
 
 
 ### 📊 Predictive Modeling for Customer Purchase Behavior
-![Predictive Modeling](https://via.placeholder.com/400x200.png?text=Predictive+Modeling+Project)
+![STAT1](https://github.com/nkemdata/portfolio/assets/119932254/f10837d6-4301-4563-9e99-519bc5093f28)
 - Developed a business predictive model to analyze and predict customer purchase behavior.
 - Utilized Python for data preprocessing and machine learning.
 - Implemented SQL for database management and data extraction.

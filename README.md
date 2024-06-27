@@ -1,41 +1,38 @@
-# 💻 Nkemjike The Data Scientist 
-
-<h1 align="center">Hi 👋, I'm Nkemjika Nwanebu</h1>
-<h3 align="center">A passionate about Data Analysis and Engineering from United Kingdom</h3>
-
-- 🔭 I’m currently working on **Dashboard Creationg using Power BI**
-
-- 🌱 I’m currently learning **php amd HMTL Language**
-
-- 👯 I’m looking to collaborate on **Data Warehouse Design**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 
-![Profile Picture]
 ![cook](https://github.com/nkemdata/abc/assets/119932254/03a8f689-80a0-45e1-afad-974b2a73bdda)
 
 
-![Header](https://via.placeholder.com/800x200.png?text=Welcome+to+Nkemjika's+GitHub+Profile)
+[![Upload Profile Picture](https://img.shields.io/badge/Upload%20Profile%20Picture-blue?style=for-the-badge)](https://github.com/yourusername/yourrepository/upload/main)
+
 
 ## About Me
-
-Hello! I'm Nkemjika, a passionate Data Scientist with a strong background in data analysis, machine learning, and data engineering. I hold an MSc in Applied Artificial Intelligence and Data Analytics, and I'm proficient in various technical tools and programming languages. My goal is to leverage data to drive informed decision-making and innovation.
+Hello! I'm Nkemjika, a passionate Data Scientist with a strong background in data analysis, data visualization, machine learning, and data engineering. I hold an MSc in Applied Artificial Intelligence and Data Analytics, and I'm proficient in various technical tools and programming languages. My goal is to leverage data to drive informed decision-making and innovation.
 
 ## Skills and Tools
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- **Programming Languages**: Python, SQL, R
-- **Data Visualization**: Power BI, Tableau, Excel
-- **Cloud Services**: Azure DevOps, AWS
-- **Database Management**: Oracle, MySQL
-- **Other Tools**: Git, GitHub, Jupyter, VS Code
+### Data Visualization
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft%20excel&logoColor=white)
 
-## Projects
+### Cloud Platforms
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft%20azure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azure%20devops&logoColor=white)
+
+### Statistical Software
+![SAS](https://img.shields.io/badge/SAS-B8385A?style=for-the-badge&logo=sas&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-1C4E80?style=for-the-badge&logo=ibm&logoColor=white)
+![STATA](https://img.shields.io/badge/STATA-1C4E80?style=for-the-badge&logo=stata&logoColor=white)
+
+### ERP Systems
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+
+
 
 ### 📊 Predictive Modeling for Customer Purchase Behavior
 ![Predictive Modeling](https://via.placeholder.com/400x200.png?text=Predictive+Modeling+Project)
@@ -56,29 +53,33 @@ Hello! I'm Nkemjika, a passionate Data Scientist with a strong background in dat
 - Applied machine learning models in R for predictive analytics.
 - Integrated data from multiple sources using SQL and Azure DevOps.
 
-## Experience
-
-### Senior Business Intelligence and Performance Analyst - Temple Energy Development Company Limited
-- Designed interactive dashboards and reports using Power BI, Tableau, and Excel.
-- Developed predictive models using statistical software like R, SAS, and SPSS.
-- Implemented data integration solutions with SQL and SSIS.
-
-### Data Analyst - Jikson Logistics Global Venture
-- Optimized shipment routes and delivery times through data analysis.
-- Created predictive models to forecast demand and maintenance needs.
-- Automated performance reporting and KPI tracking with SSRS.
-
 ## Certifications
 
 - **Google Data Analytics**
 - **Microsoft Certified: Azure Data Scientist Associate**
 - **AWS Certified Data Analytics - Specialty**
 
-## Get in Touch
+### Project 1: [Project Name](link)
+- Description: Brief overview of the project.
+- Technologies Used: List of tools and technologies.
 
+### Project 2: [Project Name](link)
+- Description: Brief overview of the project.
+- Technologies Used: List of tools and technologies.
+
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Email](mailto:your.email@example.com)
 - **LinkedIn**: [Nkemjika](https://www.linkedin.com/in/nkemjika)
 - **Email**: [nkemjika@example.com](mailto:nkemjika@example.com)
 - **GitHub**: [github.com/nkemjika](https://github.com/nkemjika)
 
 ![Footer](https://via.placeholder.com/800x100.png?text=Thank+you+for+visiting+my+profile!)
+
+
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 

@@ -48,7 +48,7 @@ Hello! I'm Nkemjika, a passionate Data Scientist with a strong background in dat
 - Presented findings through interactive dashboards in Power BI.
 
 ### 🏥 Healthcare Data Analysis
-![david2](https://github.com/nkemdata/portfolio/assets/119932254/bd83f67a-64b6-477b-b6f2-72c5d8272fed)
+![david4](https://github.com/nkemdata/portfolio/assets/119932254/e51d8f3f-2d6c-4264-881f-e3c3d8d0dc9e)
 - Analyzed healthcare datasets to improve patient outcomes and operational efficiency.
 - Applied machine learning models in R for predictive analytics.
 - Integrated data from multiple sources using SQL and Azure DevOps.

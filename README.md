@@ -43,6 +43,8 @@ Hello! I'm Nkemjika, a passionate Data Scientist with a strong background in dat
 ## Projects
 
 ### 📊 Performane Dashboard using Exel
+![daveKPI](https://github.com/nkemdata/portfolio/assets/119932254/85abb176-e96a-4122-aa96-f3d0185a15c7)
+
 - I start by gathering and organizing the relevant data in Excel.
 - I use Excel's data cleaning tools to ensure accuracy and consistency.
 - I create pivot tables and charts to summarize and visualize key metrics.
@@ -51,6 +53,7 @@ Hello! I'm Nkemjika, a passionate Data Scientist with a strong background in dat
 - Finally, I add interactive elements like slicers to allow users to filter and explore the data dynamically.
 
 ### 📊 NHS Waiting Time (WT) using Power BI
+![POWER ICT](https://github.com/nkemdata/portfolio/assets/119932254/af63452c-b1d6-4847-916b-850ac8332261)
 - I begin by importing NHS waiting time data into Power BI.
 - I clean and preprocess the data to ensure accuracy and consistency.
 - I create visualizations, such as bar charts and line graphs, to illustrate trends in waiting times.
@@ -59,6 +62,7 @@ Hello! I'm Nkemjika, a passionate Data Scientist with a strong background in dat
 - Finally, I share the dashboard with stakeholders for informed decision-making and performance monitoring.
 
 ### 📊 Data Exploration in SQL
+
 - I begin by identifying the dataset and understanding its structure, including tables, columns, and data types.
 - I use SELECT statements to preview and inspect the data.
 - I perform filtering using WHERE clauses to isolate relevant records.

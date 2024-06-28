@@ -68,13 +68,11 @@ Hello! I'm Nkemjika, a passionate Data Scientist with a strong background in dat
 - Technologies Used: List of tools and technologies.
 
 ## Contact
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Email](mailto:your.email@example.com)
 - **LinkedIn**: [Nkemjika](https://www.linkedin.com/in/nkemjika)
-- **Email**: [nkemjika@example.com](mailto:nkemjika@example.com)
+- **Email**: [nkemjika@example.com](nwanebu.nkemjikai@gmail..com)
 - **GitHub**: [github.com/nkemjika](https://github.com/nkemjika)
 
-![Footer](https://via.placeholder.com/800x100.png?text=Thank+you+for+visiting+my+profile!)
+![mdesign (1)](https://github.com/nkemdata/portfolio/assets/119932254/ddb4eeb8-ef15-418c-a375-26af88311194)
 
 
 <p align="left">

@@ -62,7 +62,7 @@ Hello! I'm Nkemjika, a passionate Data Scientist with a strong background in dat
 - Finally, I share the dashboard with stakeholders for informed decision-making and performance monitoring.
 
 ### 📊 Data Exploration in SQL
-
+![Explor](https://github.com/nkemdata/portfolio/assets/119932254/83f3ce61-e601-4537-a77f-ebed9f1239ef)
 - I begin by identifying the dataset and understanding its structure, including tables, columns, and data types.
 - I use SELECT statements to preview and inspect the data.
 - I perform filtering using WHERE clauses to isolate relevant records.

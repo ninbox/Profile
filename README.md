@@ -42,6 +42,30 @@ Hello! I'm Nkemjika, a passionate Data Scientist with a strong background in dat
 
 ## Projects
 
+### 📊 Performane Dashboard using Exel
+- I start by gathering and organizing the relevant data in Excel.
+- I use Excel's data cleaning tools to ensure accuracy and consistency.
+- I create pivot tables and charts to summarize and visualize key metrics.
+- I design the dashboard layout, placing charts and tables in an easy-to-read format.
+- I use Excel's formatting options to enhance the visual appeal and clarity of the dashboard.
+- Finally, I add interactive elements like slicers to allow users to filter and explore the data dynamically.
+
+### 📊 NHS Waiting Time (WT) using Power BI
+- I begin by importing NHS waiting time data into Power BI.
+- I clean and preprocess the data to ensure accuracy and consistency.
+- I create visualizations, such as bar charts and line graphs, to illustrate trends in waiting times.
+- I design an interactive dashboard that allows users to filter data by different parameters, like region or department.
+- I use Power BI's advanced analytics to identify patterns and outliers in the waiting times.
+- Finally, I share the dashboard with stakeholders for informed decision-making and performance monitoring.
+
+### 📊 Data Exploration in SQL
+- I begin by identifying the dataset and understanding its structure, including tables, columns, and data types.
+- I use SELECT statements to preview and inspect the data.
+- I perform filtering using WHERE clauses to isolate relevant records.
+- I aggregate data with GROUP BY and calculate summary statistics like COUNT, SUM, and AVG.
+- Writing queries allows me to identify trends, patterns, and anomalies.
+- This process helps me understand the dataset's structure and quality.
+
 ### 📊 Predictive Modeling for Customer Purchase Behavior
 ![david](https://github.com/nkemdata/portfolio/assets/119932254/cad00b29-be74-4660-8692-594bdb356d80)
 - Developed a business predictive model to analyze and predict customer purchase behavior.

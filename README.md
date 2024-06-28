@@ -42,7 +42,7 @@ Hello! I'm Nkemjika, a passionate Data Scientist with a strong background in dat
 - Visualized results using Power BI and Tableau.
 
 ### 🌐 Web Scraping and Data Analysis
-![Web Scraping](https://via.placeholder.com/400x200.png?text=Web+Scraping+Project)
+![WEB-1](https://github.com/nkemdata/portfolio/assets/119932254/a4f7d915-0229-4828-ac91-62cd32875174)
 - Built web scraping tools using Python to gather data from various websites.
 - Conducted comprehensive data analysis to derive actionable insights.
 - Presented findings through interactive dashboards in Power BI.

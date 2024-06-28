@@ -72,7 +72,7 @@ Hello! I'm Nkemjika, a passionate Data Scientist with a strong background in dat
 - **Email**: [nkemjika@example.com](nwanebu.nkemjikai@gmail..com)
 - **GitHub**: [github.com/nkemjika](https://github.com/nkemjika)
 
-![mdesign (1)](https://github.com/nkemdata/portfolio/assets/119932254/ddb4eeb8-ef15-418c-a375-26af88311194)
+![david3](https://github.com/nkemdata/portfolio/assets/119932254/a9689909-f7fa-44c7-982a-6de72ecd1de2)
 
 
 <p align="left">

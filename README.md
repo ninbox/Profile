@@ -42,6 +42,15 @@ Hello! I'm Nkemjika, a passionate Data Scientist with a strong background in dat
 
 ## Projects
 
+### 📊 Data Ceaning in Excel
+- I meticulously scanned my dataset for any missing or duplicate entries, ensuring a comprehensive and accurate data collection.
+- I standardized formats and corrected data entry errors to maintain consistency across all records.
+- I used Excel functions to identify and handle outliers, ensuring that anomalies did not skew my analysis.
+- I applied filters and sorting techniques to organize my data, making it easier to spot trends and discrepancies.
+- I documented every step of the cleaning process, providing a clear audit trail for future reference and replication.
+
+
+
 ### 📊 Performane Dashboard using Exel
 ![daveKPI](https://github.com/nkemdata/portfolio/assets/119932254/85abb176-e96a-4122-aa96-f3d0185a15c7)
 

@@ -43,6 +43,7 @@ Hello! I'm Nkemjika, a passionate Data Scientist with a strong background in dat
 ## Projects
 
 ### 📊 Data Ceaning in Excel
+![datacleabi](https://github.com/nkemdata/portfolio/assets/119932254/852b114b-4c2d-42f3-8cc5-3259b69a2149)
 - I meticulously scanned my dataset for any missing or duplicate entries, ensuring a comprehensive and accurate data collection.
 - I standardized formats and corrected data entry errors to maintain consistency across all records.
 - I used Excel functions to identify and handle outliers, ensuring that anomalies did not skew my analysis.

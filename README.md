@@ -33,6 +33,14 @@ Hello! I'm Nkemjika, a passionate Data Scientist with a strong background in dat
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 
+## Certifications
+
+- **Google Data Analytics**
+- **Microsoft Certified: Azure Data Scientist Associate**
+- **AWS Certified Data Analytics - Specialty**
+- **Medical Terminology Level 2**
+
+## Projects
 
 ### 📊 Predictive Modeling for Customer Purchase Behavior
 ![david](https://github.com/nkemdata/portfolio/assets/119932254/cad00b29-be74-4660-8692-594bdb356d80)
@@ -53,19 +61,6 @@ Hello! I'm Nkemjika, a passionate Data Scientist with a strong background in dat
 - Applied machine learning models in R for predictive analytics.
 - Integrated data from multiple sources using SQL and Azure DevOps.
 
-## Certifications
-
-- **Google Data Analytics**
-- **Microsoft Certified: Azure Data Scientist Associate**
-- **AWS Certified Data Analytics - Specialty**
-
-### Project 1: [Project Name](link)
-- Description: Brief overview of the project.
-- Technologies Used: List of tools and technologies.
-
-### Project 2: [Project Name](link)
-- Description: Brief overview of the project.
-- Technologies Used: List of tools and technologies.
 
 ## Contact
 - **LinkedIn**: [Nkemjika](https://www.linkedin.com/in/nkemjika)

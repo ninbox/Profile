@@ -52,7 +52,6 @@ Hello! I'm Nkemjika, a passionate Data Scientist with a strong background in dat
 - I documented every step of the cleaning process, providing a clear audit trail for future reference and replication.
 
 
-
 ### 📊 Performane Dashboard using Exel
 ![daveKPI](https://github.com/nkemdata/portfolio/assets/119932254/85abb176-e96a-4122-aa96-f3d0185a15c7)
 
@@ -80,6 +79,14 @@ Hello! I'm Nkemjika, a passionate Data Scientist with a strong background in dat
 - I aggregate data with GROUP BY and calculate summary statistics like COUNT, SUM, and AVG.
 - Writing queries allows me to identify trends, patterns, and anomalies.
 - This process helps me understand the dataset's structure and quality.
+
+### 📊 Employee New Salary and Bonus Calculation using MySQL Stored Procedures
+ [View Project](https://github.com/nkemdata/Project-A/tree/main)
+- Database and Table Creation.
+- Salary and Bonus Calculation Logic.
+- SQL Queries.
+- Stored Procedure Creation.
+- Procedure Execution.
 
 ### 📊 Predictive Modeling for Customer Purchase Behavior
 ![david](https://github.com/nkemdata/portfolio/assets/119932254/cad00b29-be74-4660-8692-594bdb356d80)

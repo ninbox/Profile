@@ -110,8 +110,8 @@ Hello! I'm Nkemjika, a passionate Data Scientist with a strong background in dat
 
 
 ## Contact
-- **LinkedIn**: [Nkemjika](https://www.linkedin.com/in/nkemjika)
-- **Email**: [nkemjika@example.com](nwanebu.nkemjikai@gmail..com)
+- **LinkedIn**: [https://www.linkedin.com/in/nkemjika-nwanebu/](https://www.linkedin.com/in/nkemjika)
+- **Email**: [nwanebu.nkemjikai@gmail.com](nwanebu.nkemjikai@gmail..com)
 - **GitHub**: [github.com/nkemjika](https://github.com/nkemjika)
 
 ![mdesign (1)](https://github.com/nkemdata/portfolio/assets/119932254/5e1cc012-f852-4e28-aeb0-13c3f01263da)

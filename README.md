@@ -80,9 +80,9 @@ Hello! I'm Nkemjika, a passionate Data Scientist with a strong background in dat
 - Writing queries allows me to identify trends, patterns, and anomalies.
 - This process helps me understand the dataset's structure and quality.
 
-### 📊 Employee New Salary and Bonus Calculation using MySQL Stored Procedures
+### 📊 Employees Salary Audit Project 
 ![Cal22](https://github.com/nkemdata/Project-A/assets/119932254/3af20629-1c2d-472b-b456-59adbe94610a)
- [View Project](https://github.com/nkemdata/Project-A/tree/main)
+ [View Project](https://github.com/ninbox/Project-A/tree/main)
 - Database and Table Creation.
 - Salary and Bonus Calculation Logic.
 - SQL Queries.
